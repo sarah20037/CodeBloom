@@ -3,7 +3,7 @@ import sys
 import shutil
 from fawkes.protection import protect
 
-# ========== Configuration ==========
+# ========== Configuration ========
 INPUT_IMAGE = r"C:\Users\hp\codebloom\photo.jpeg"
 OUTPUT_DIR = r"C:\Users\hp\codebloom\fawkes_output"
 MODE = "high"  # Options: "low", "medium", "high", "ultra"
